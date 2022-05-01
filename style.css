@@ -63,7 +63,7 @@ p {
     transition: all .2s ease;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 50em) {
     .container {
         width: 37.5rem;
     }
@@ -158,7 +158,7 @@ p {
     color: var(--primary);
 }
 
-@media (max-width: 800px) {
+@media (max-width: 50em) {
     #logo {
         width: 4rem;
         height: 4rem;
@@ -219,7 +219,7 @@ p {
     text-align: center;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 50em) {
     .ty_img {
         padding: 1.2rem 0 2.2rem 0;
     }
